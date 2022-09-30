@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **reactjs,js,ts,html5,css3**
 
-- 📫 How to reach me **rovanmagdi26699@gmail.com**
+- 📫 How to reach me **rovanmagdi@gmail.com**
 
 - 📄 Know about my experiences [[https://drive.google.com/file/d/1yRPf_OcEVmpxynqnccDrouIulWJt_60r/view?usp=sharing](https://drive.google.com/drive/my-drive)]([https://drive.google.com/file/d/1yRPf_OcEVmpxynqnccDrouIulWJt_60r/view?usp=sharing](https://drive.google.com/drive/my-drive))
 
