@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rovan Magdi</h1>
-<h3 align="center">A Frontend Developer with 1+ years of experience who seek an opportunity in the software development field to be part in an organization where I can contribute my skills in the organization growth. -🌱 I’m currently learning 9- Month Diploma, Diploma of Web & Usernterface Development, ITI .</h3>
+<h3 align="center">A Frontend Developer with 2 years of experience who seek an opportunity in the software development field to be part in an organization where I can contribute my skills in the organization growth. -🌱 I’m currently learning 9- Month Diploma, Diploma of Web & Usernterface Development, ITI .</h3>
 
 - 🌱 I’m currently learning **ReactJs**
 
